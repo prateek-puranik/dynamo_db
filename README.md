@@ -28,7 +28,7 @@ Verify that no errors are reported.
 
 ### Step 4: Apply the Terraform configuration
 `terraform apply`
-### Confirm deployment by typing 'yes' and ensure no errors occur.
+Confirm deployment by typing 'yes' and ensure no errors occur.
 
 ### Step 5: Update EC2 instance settings
 #### - Navigate to EC2 Instances -> Instances.
